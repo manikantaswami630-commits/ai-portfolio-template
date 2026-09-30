@@ -1,0 +1,22 @@
+# Core
+pandas
+numpy
+requests
+pydantic
+
+# Data & Vector
+faiss-cpu
+sentence-transformers
+
+# Web & UI
+streamlit
+fastapi
+uvicorn
+
+# DB
+sqlalchemy
+
+# Testing & Linting
+pytest
+pytest-cov
+ruff
